@@ -1,0 +1,16 @@
+{
+  "classes": [
+    "Hardhat",
+    "Mask",
+    "NO-Hardhat",
+    "NO-Mask",
+    "NO-Safety Vest",
+    "Person",
+    "Safety Cone",
+    "Safety Vest",
+    "machinery",
+    "vehicle"
+  ],
+  "source": "Roboflow Universe Projects, Construction Site Safety v27",
+  "license": "CC BY 4.0"
+}

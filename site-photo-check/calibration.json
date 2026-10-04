@@ -1,0 +1,10 @@
+{
+  "method": "platt",
+  "score_definition": "objectness * class score after NMS at IoU 0.45",
+  "a": 1.3007533975579462,
+  "b": 0.5213025616280061,
+  "suggested_thresholds": {
+    "act": 0.85,
+    "route_to_person_low": 0.5
+  }
+}
